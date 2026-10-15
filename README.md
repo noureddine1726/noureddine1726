@@ -1,0 +1,49 @@
+
+<h1 align="center">Hi there, I'm Noureddine Khelfaoui 👋</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_COMPUTER_SCIENCE_STUDENT-USTHB_L3-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡_PYTHON_&_AUTOMATION-DEVELOPER-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍_ALGIERS-ALGERIA-success?style=for-the-badge" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🌱 I'm a third-year computer science student at **USTHB** in Algiers.
+* 💡 Passionate about backend development, software engineering, and data-driven automation.
+* 🛠️ Experienced in building efficient Python applications, web scraping tools, and CI/CD pipelines.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+* **Languages:** Python, C, Java, JavaScript
+* **Development & Version Control:** Git, GitHub, Linux (WSL/Ubuntu), JetBrains IDEs, VS Code
+* **Data & Automation:** CSV Data Pipelines, REST APIs, Web Scraping, GitHub Actions (CI/CD)
+
+---
+
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noureddine1726&show_icons=true&theme=radical&hide_border=true" />
+</p>
+<!--
+**noureddine1726/noureddine1726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
