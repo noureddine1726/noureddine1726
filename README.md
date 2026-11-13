@@ -19,9 +19,11 @@
 
 ## 🛠️ Tech Stack & Tools
 
-* **Languages:** Python, C, Java, JavaScript
-* **Development & Version Control:** Git, GitHub, Linux (WSL/Ubuntu), JetBrains IDEs, VS Code
-* **Data & Automation:** CSV Data Pipelines, REST APIs, Web Scraping, GitHub Actions (CI/CD)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,java,c,html,css,nodejs,nestjs,nextjs,react,django,postgres,prisma,sqlite,aws,git,github,githubactions,linux,ubuntu,vscode,pycharm,idea,figma&perline=9" alt="Tech Stack Icons" />
+  </a>
+</p>
 
 ---
 
